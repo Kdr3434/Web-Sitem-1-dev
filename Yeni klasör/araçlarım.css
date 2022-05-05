@@ -1,0 +1,23 @@
+img{
+    
+    width: 200px;
+    height: 150px;
+}
+li{
+    float: left;
+    list-style: none;
+    padding: 20px;
+    background-color: rgb(5, 66, 49);
+}
+a{
+    text-decoration: none;
+    color: slategrey;
+}
+h2{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
